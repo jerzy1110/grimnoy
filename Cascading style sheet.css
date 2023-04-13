@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body {
+    background-color: #E1A9AA;
+}
+p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+}
